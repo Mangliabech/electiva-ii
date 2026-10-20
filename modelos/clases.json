@@ -1,0 +1,27 @@
+{
+  "en": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ],
+  "es": [
+    "Camiseta",
+    "Pantalon",
+    "Sueter",
+    "Vestido",
+    "Abrigo",
+    "Sandalia",
+    "Camisa",
+    "Zapatilla",
+    "Bolso",
+    "Botin"
+  ],
+  "mejor_modelo": "Mini_ResNet"
+}
